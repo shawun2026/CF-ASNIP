@@ -1,0 +1,8 @@
+asnip.exe
+asnip_linux
+runs/
+dist/
+*.log
+*.out
+serve.err
+testdata/masscan_stub.exe
